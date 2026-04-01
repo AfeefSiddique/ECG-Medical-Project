@@ -162,6 +162,5 @@ joblib
 
 ## Author
 
-**Afeef Siddique**  
-BSc in Electronics and Telecommunication Engineering, RUET  
+**Afeef Siddique**   
 [GitHub](https://github.com/AfeefSiddique)
